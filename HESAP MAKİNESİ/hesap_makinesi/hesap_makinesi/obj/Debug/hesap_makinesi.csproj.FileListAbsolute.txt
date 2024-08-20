@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.exe.config
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.exe
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.pdb
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.Form1.resources
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.exe
+C:\Users\Acer\Desktop\HESAP MAKİNESİ\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.pdb
